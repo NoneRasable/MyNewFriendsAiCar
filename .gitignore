@@ -1,0 +1,10 @@
+.idea/*
+classes/*
+out/*
+.classpath
+.project
+.compilation.log
+compile-java.sh
+java-cgdk.iml
+pom.xml
+*.bat
